@@ -1,0 +1,2 @@
+x = input("inserir um valor ou letra para x: ")
+print("               ", x, "\n             ", x,x,x,  "\n           ", x,x,x,x,x, "\n         ", x,x,x,x,x,x,x, "\n       ", x,x,x,x,x,x,x,x,x, "\n     ", x,x,x,x,x,x,x,x,x,x,x, "\n   ", x,x,x,x,x,x,x,x,x,x,x,x,x, "\nc", x,x,x,x,x,x,x,x,x,x,x,x,x,x,x, "\n              ", x,x, "\n              ", x,x, "\n            ", x,x,x,x,)
