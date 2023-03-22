@@ -1,7 +1,6 @@
-senha = int(input("Informe a senha: "))
-senha_valida = 8765
+senha = int(input("Digite a senha: "))
 
-if senha == senha_valida:
-    print("Senha válida.")
+if senha == 8765:
+    print("Acesso permitido!")
 else:
-    print("Senha inválida.")
+    print("Acesso negado!")

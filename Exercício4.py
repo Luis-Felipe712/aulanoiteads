@@ -1,4 +1,6 @@
-aluno = str(input("Insira o nome do aluno(a): "))
-nota = float(input("Insira a nota: "))
+nome_aluno = input("Digite o nome do aluno(a): ")
+nota_aluno = float(input("Digite a nota do aluno(a): "))
 
-print("ALUNO(A)", "          NOTA", "\n=========          =====", "\n", aluno, "         ", nota)
+print("\nALUNO(A)       NOTA")
+print("=========      =====")
+print("{:<12}   {:<6.1f}".format(nome_aluno, nota_aluno))
